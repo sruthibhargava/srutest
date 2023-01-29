@@ -7,7 +7,7 @@
 <body>
 
 <h1 style="text-align:center; color:tomato;" >Welcome to Jenkins Tutorials</h1>
-  <h3 style="text-aling:center; color:blue;"> Sruthi Joined Harman</h3>
+  <h3 style="text-align:center; color:blue;"> Sruthi Joined Harman</h3>
   <marquee> Happy New Year!</marquee>
 
 </body>
